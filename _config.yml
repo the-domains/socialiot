@@ -1,0 +1,28 @@
+name: SocialIOT
+favicon: null
+layout_spectrum: 0.6448232710827142
+typography_spectrum: 0.1554742071311921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3339968465734273
+  lightness: 0.7810550201684237
+  saturation: 0.4528694190084934
+  rhythmicContrast: 0.3816589470952749
+purpose: []
