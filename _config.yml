@@ -1,6 +1,6 @@
 name: SocialIOT
 favicon: null
-layout_spectrum: 0.6448232710827142
+layout_spectrum: 0.70704
 typography_spectrum: 0.1554742071311921
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#8c6b4c'
     - '#006673'
     - '#84bcda'
-  brandStrength: 0.875
-  lightness: 0.3125
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  brandStrength: 0.4375
+  lightness: 0.4375
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
